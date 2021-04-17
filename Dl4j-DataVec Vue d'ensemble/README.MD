@@ -5,6 +5,8 @@
  
 Auteur : Silahi Ali Houssene
 
+Pour plus de détails : [Tech4j on Youtube](https://www.youtube.com/channel/UC3ZKhGziYa1Tg6HS7SoFCzw)
+
 # DataVec : Vue d'ensemble
 
 * **ETL (Extract Transform Load)**
