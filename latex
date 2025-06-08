@@ -1,0 +1,12 @@
+%pour les références bibliographiques
+\usepackage[citestyle=authoryear,bibstyle=authoryear,doi=false,isbn=false,eprint=false,maxcitenames=1,uniquelist=false,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\AtEveryBibitem{
+  \ifentrytype{misc}{
+  }{
+    \clearfield{url}
+    \clearfield{urlyear}
+    
+  }
+}
