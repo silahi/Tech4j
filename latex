@@ -11,6 +11,10 @@
   }
 }
 
+\printbibliography[nottype=misc,title={Bibliographie}]
+ 
+\printbibliography[type=misc,title={Webographie}]
+
 @misc{kassambara_determining_nodate,
 	title = {Determining {The} {Optimal} {Number} {Of} {Clusters}: 3 {Must} {Know} {Methods}},
 	shorttitle = {Determining {The} {Optimal} {Number} {Of} {Clusters}},
